@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+    background: url(Mantle.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+h1 {
+  font-size: 3rem;
+  color: rgb(14, 121, 55);
+}
+
+.text-uppercase {
+  color: #3EA464;
+}
+
+.btn-mtl{
+  padding: 1rem 2rem;
+}
+
+.btn {
+  font-weight:700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: rgba(18, 119, 15, 0.418);
+  border-color: rgba(18, 119, 15, 0.418);
+
+}
+.btn-primary:hover {
+  background-color: rgba(31, 158, 99, 0.418);
+  border-color: rgba(31, 158, 99, 0.418);
+}
+
+
+hr {
+  border-color: green;
+  border-width: 3px;
+  max-width: 150px;
+}
+
+.buffer {
+  height: 20px;
+}
